@@ -1,4 +1,3 @@
-import { initProducts, addProduct } from './product-management';
 import { products } from './products';
 import { renderProducts } from './rendering';
 
